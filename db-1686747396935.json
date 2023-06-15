@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "55e4c59b-03e9-4aa1-aec8-0e9185eb7fba",
+      "name": "Narendra Modi",
+      "email": "chaiwaala@gmail.com"
+    },
+    {
+      "id": "91d9e87d-40ed-41b0-9466-cf254c739116",
+      "name": "Rahul Gandhi",
+      "email": "pappu@gmail.com"
+    },
+    {
+      "id": "d11990b6-66ed-40ae-9d53-b854a7c2beb7",
+      "name": "Amit Shah",
+      "email": "gujju@gmail.com"
+    }
+  ]
+}

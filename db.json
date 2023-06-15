@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "be8a6174-3e04-452d-97a6-45ef6a58a0ad",
+      "name": "Avinendra Kumar Singh",
+      "email": "manjunathsuperstar413@gmail.com"
+    },
+    {
+      "id": "7402277a-2d48-4b98-9696-56c2594d5c3e",
+      "name": "Arvind Kejriwal",
+      "email": "farzi@gmail.com"
+    },
+    {
+      "id": "366fb3ed-fe27-405e-a32d-317cfd1ca3b2",
+      "name": "Avinendra Kumar Singh",
+      "email": "manjunathsuperstar413@gmail.com"
+    },
+    {
+      "id": "59c0a8b6-35a5-4452-94ba-5cb980c2e8fb",
+      "name": "Narendra Modi",
+      "email": "chaiwaala@gmail.com"
+    },
+    {
+      "id": "d7047221-5e71-4ba9-b7a9-60e00abd3526",
+      "name": "Avinendra Kumar Singh",
+      "email": "manjunathsuperstar413@gmail.com"
+    }
+  ]
+}
